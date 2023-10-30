@@ -9,6 +9,7 @@ There should be links to their repos or relevant forum threas below
 
 # Fan control
 A somewhat reworked fork of glorious spinpid scripts 
+
 Modified to work on linux as well as work with three fan zones (the SuperMicro X10SRG-F motherboard)
 
 All cred is his, and also READ HIS DOCS!
