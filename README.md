@@ -5,7 +5,7 @@ as usual (do we really need this anymore)  no warranties what so ever :) the fac
 
 The scripts here are not all my own doing, many other people have helped, and in some cases I haven't done much of anything.
 
-There should be links to their repos or relevant forum threas below
+There should be links to their repos or relevant forum threads below
 
 
 # Fan control
